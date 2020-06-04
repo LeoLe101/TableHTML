@@ -1,0 +1,41 @@
+[
+	{
+		"StateAbbr": "AL",
+		"StateName": "Alabama",
+		"StateURL": "https://en.wikipedia.org/wiki/Alabama",
+		"Counties": [
+			
+			{
+				"CountyName": "Western District",
+				"Population": 31329
+			}
+		]
+	},
+	{
+		"StateAbbr": "WI",
+		"StateName": "Wisconsin",
+		"StateURL": "https://en.wikipedia.org/wiki/Wisconsin",
+		"Counties": [
+	
+			{
+				"CountyName": "Wood",
+				"Population": 73959
+			}
+		]
+	},
+	{
+		"StateAbbr": "WY",
+		"StateName": "Wyoming",
+		"StateURL": "https://en.wikipedia.org/wiki/Wyoming",
+		"Counties": [
+			{
+				"CountyName": "Albany",
+				"Population": 37422
+			},
+			{
+				"CountyName": "Big Horn",
+				"Population": 11994
+			}
+		]
+	}
+]
